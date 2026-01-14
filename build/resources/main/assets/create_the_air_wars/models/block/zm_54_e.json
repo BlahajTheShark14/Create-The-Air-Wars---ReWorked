@@ -1,0 +1,9 @@
+{
+  "parent": "create_the_air_wars:custom/zm-54e",
+  "textures": {
+    "all": "create_the_air_wars:block/zm-54e_hefrag_texture",
+    "particle": "create_the_air_wars:block/zm-54e_hefrag_texture",
+    "2": "create_the_air_wars:block/zm-54e_hefrag_texture"
+  },
+  "render_type": "cutout"
+}

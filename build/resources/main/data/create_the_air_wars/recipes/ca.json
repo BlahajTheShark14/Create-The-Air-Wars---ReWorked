@@ -1,0 +1,18 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create_the_air_wars:rough_amalgam"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+    "item": "create_the_air_wars:crushed_amalgam"
+    },
+    {
+      "chance": 0.01,
+    "item": "create_the_air_wars:crushed_amalgam"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "create_the_air_wars:custom/grenadeairstrike",
+  "textures": {
+    "1": "create_the_air_wars:block/airstrikeorigin",
+    "particle": "create_the_air_wars:item/airstrikegrenade"
+  }
+}

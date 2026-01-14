@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "rim-7"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "variants": {
+    "facing=north,part=0": { "model": "create_the_air_wars:block/large_propeller_blade" },
+    "facing=north,part=1": { "model": "create_the_air_wars:block/large_propeller_blade_bottom" },
+    "facing=north,part=2": { "model": "create_the_air_wars:block/large_propeller_blade_middle" },
+    "facing=north,part=3": { "model": "create_the_air_wars:block/large_propeller_blade_top" },
+
+    "facing=east,part=0": { "model": "create_the_air_wars:block/large_propeller_blade", "y": 90 },
+    "facing=east,part=1": { "model": "create_the_air_wars:block/large_propeller_blade_bottom", "y": 90 },
+    "facing=east,part=2": { "model": "create_the_air_wars:block/large_propeller_blade_middle", "y": 90 },
+    "facing=east,part=3": { "model": "create_the_air_wars:block/large_propeller_blade_top", "y": 90 },
+
+    "facing=south,part=0": { "model": "create_the_air_wars:block/large_propeller_blade", "y": 180 },
+    "facing=south,part=1": { "model": "create_the_air_wars:block/large_propeller_blade_bottom", "y": 180 },
+    "facing=south,part=2": { "model": "create_the_air_wars:block/large_propeller_blade_middle", "y": 180 },
+    "facing=south,part=3": { "model": "create_the_air_wars:block/large_propeller_blade_top", "y": 180 },
+
+    "facing=west,part=0": { "model": "create_the_air_wars:block/large_propeller_blade", "y": 270 },
+    "facing=west,part=1": { "model": "create_the_air_wars:block/large_propeller_blade_bottom", "y": 270 },
+    "facing=west,part=2": { "model": "create_the_air_wars:block/large_propeller_blade_middle", "y": 270 },
+    "facing=west,part=3": { "model": "create_the_air_wars:block/large_propeller_blade_top", "y": 270 },
+
+    "facing=up,part=0": { "model": "create_the_air_wars:block/large_propeller_blade", "x": 270 },
+    "facing=up,part=1": { "model": "create_the_air_wars:block/large_propeller_blade_bottom", "x": 270 },
+    "facing=up,part=2": { "model": "create_the_air_wars:block/large_propeller_blade_middle", "x": 270 },
+    "facing=up,part=3": { "model": "create_the_air_wars:block/large_propeller_blade_top", "x": 270 },
+
+    "facing=down,part=0": { "model": "create_the_air_wars:block/large_propeller_blade", "x": 90 },
+    "facing=down,part=1": { "model": "create_the_air_wars:block/large_propeller_blade_bottom", "x": 90 },
+    "facing=down,part=2": { "model": "create_the_air_wars:block/large_propeller_blade_middle", "x": 90 },
+    "facing=down,part=3": { "model": "create_the_air_wars:block/large_propeller_blade_top", "x": 90 }
+  }
+}

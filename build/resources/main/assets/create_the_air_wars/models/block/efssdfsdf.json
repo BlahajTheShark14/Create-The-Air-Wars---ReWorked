@@ -1,0 +1,9 @@
+{
+  "parent": "create_the_air_wars:custom/c-8",
+  "textures": {
+    "all": "create_the_air_wars:block/c-8",
+    "particle": "create_the_air_wars:block/c-8",
+    "0": "create_the_air_wars:block/c-8"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "propeller_blade"
+      },
+      "name": "default"
+    }
+  }
+}

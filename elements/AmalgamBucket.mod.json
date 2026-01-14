@@ -1,0 +1,61 @@
+{
+  "_fv": 73,
+  "_type": "fluid",
+  "definition": {
+    "name": "Amalgam",
+    "bucketName": "Amalgam Bucket",
+    "textureStill": "error",
+    "textureFlowing": "error",
+    "textureRenderOverlay": "",
+    "hasFog": false,
+    "fogStartDistance": {
+      "fixedValue": 0.0
+    },
+    "fogEndDistance": {
+      "fixedValue": 48.0
+    },
+    "tintType": "No tint",
+    "canMultiply": false,
+    "flowRate": 2,
+    "levelDecrease": 2,
+    "slopeFindDistance": 4,
+    "spawnParticles": false,
+    "dripParticle": {
+      "value": "CAMPFIRE_COSY_SMOKE"
+    },
+    "flowStrength": 2.0,
+    "luminosity": 0,
+    "density": 1000,
+    "viscosity": 1000,
+    "temperature": 300,
+    "type": "LAVA",
+    "generateBucket": true,
+    "textureBucket": "amalgam_bucket",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:Createtheairwar"
+      },
+      {
+        "value": "CUSTOM:Createtwi"
+      },
+      {
+        "value": "CUSTOM:Createtawi"
+      }
+    ],
+    "emptySound": {
+      "value": ""
+    },
+    "rarity": "COMMON",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "resistance": 100.0,
+    "luminance": 0,
+    "lightOpacity": 1,
+    "emissiveRendering": false,
+    "tickRate": 0,
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "colorOnMap": "DEFAULT"
+  }
+}

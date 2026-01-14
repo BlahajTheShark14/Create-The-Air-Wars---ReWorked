@@ -1,0 +1,9 @@
+{
+  "parent": "create_the_air_wars:custom/rocketboxloaded",
+  "textures": {
+    "all": "create_the_air_wars:block/rocket_box",
+    "particle": "create_the_air_wars:block/rocket_box",
+    "1": "create_the_air_wars:block/rocket_box"
+  },
+  "render_type": "cutout"
+}

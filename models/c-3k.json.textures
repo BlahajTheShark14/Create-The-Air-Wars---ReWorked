@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "c-3k"
+      },
+      "name": "default"
+    }
+  }
+}

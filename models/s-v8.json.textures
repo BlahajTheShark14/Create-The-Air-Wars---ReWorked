@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "s-8_empty"
+      },
+      "name": "default"
+    }
+  }
+}

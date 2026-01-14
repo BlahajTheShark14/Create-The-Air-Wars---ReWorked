@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create_the_air_wars:rawtitanium"
+    }
+  ],
+  "processingTime": 600,
+  "results": [
+    {
+      "item": "create_the_air_wars:crashedtitanium"
+    },
+    {
+      "chance": 0.75,
+      "count": 2,
+      "item": "create_the_air_wars:crashedtitanium"
+    }
+  ]
+}

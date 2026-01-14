@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "create_the_air_wars:block/zm_54_e"
+    },
+    "facing=east": {
+      "model": "create_the_air_wars:block/zm_54_e",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "create_the_air_wars:block/zm_54_e",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "create_the_air_wars:block/zm_54_e",
+      "y": 270
+    }
+  }
+}

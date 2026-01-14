@@ -1,0 +1,15 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "amount": 100,
+      "fluid": "create_the_air_wars:amalgam_bucket",
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+      "item": "create_the_air_wars:mirror"
+    }
+  ]
+}

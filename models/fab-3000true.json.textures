@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "fab_3000"
+      },
+      "name": "default"
+    }
+  }
+}

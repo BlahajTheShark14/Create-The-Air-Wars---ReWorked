@@ -1,0 +1,154 @@
+{
+  "explotion": {
+    "sounds": [
+      {
+        "name": "create_the_air_wars:silnyiy-raskatistyiy-vzryiv",
+        "stream": false
+      }
+    ]
+  },
+  "polet": {
+    "sounds": [
+      {
+        "name": "create_the_air_wars:rocket-launch-sfx-253937_mp3cut.net",
+        "stream": false
+      }
+    ]
+  },
+  "vilet": {
+    "sounds": [
+      {
+        "name": "create_the_air_wars:rocketmp3-94928",
+        "stream": false
+      }
+    ]
+  },
+  "ozen": {
+    "sounds": [
+      {
+        "name": "create_the_air_wars:ozen",
+        "stream": false
+      }
+    ]
+  },
+  "fdgdg": {
+    "sounds": [
+      {
+        "name": "create_the_air_wars:bolshoy-vzryiv",
+        "stream": false
+      }
+    ]
+  },
+  "vzriv": {
+    "sounds": [
+      {
+        "name": "create_the_air_wars:oglushitelnyiy-moschnyiy-vzryiv",
+        "stream": false
+      }
+    ]
+  },
+  "zapusk": {
+    "sounds": [
+      {
+        "name": "create_the_air_wars:zapusk-snaryada-iz-raketnoy-puskovoy-ustanovki",
+        "stream": false
+      }
+    ]
+  },
+  "vzrivc-8": {
+    "sounds": [
+      {
+        "name": "create_the_air_wars:vzryiv-slyishimyiy-izdaleka",
+        "stream": false
+      }
+    ]
+  },
+  "fire_autocannon": {
+    "sounds": [
+      {
+        "name": "create_the_air_wars:fire_autocannon",
+        "stream": false
+      }
+    ]
+  },
+  "fire_big_cannon": {
+    "sounds": [
+      {
+        "name": "create_the_air_wars:fire_big_cannon",
+        "stream": false
+      }
+    ]
+  },
+  "shellexp1": {
+    "sounds": [
+      {
+        "name": "create_the_air_wars:shell_explosion",
+        "stream": false
+      }
+    ]
+  },
+  "shellexp2": {
+    "sounds": [
+      {
+        "name": "create_the_air_wars:shell_explosion1",
+        "stream": false
+      }
+    ]
+  },
+  "shellex3": {
+    "sounds": [
+      {
+        "name": "create_the_air_wars:shell_explosion2",
+        "stream": false
+      }
+    ]
+  },
+  "shell_flying": {
+    "sounds": [
+      {
+        "name": "create_the_air_wars:shell_flying",
+        "stream": false
+      }
+    ]
+  },
+  "greanateactv": {
+    "sounds": [
+      {
+        "name": "create_the_air_wars:cheku-vyidergivayut-brosayut-granatu-27938",
+        "stream": false
+      }
+    ]
+  },
+  "explgrenade": {
+    "sounds": [
+      {
+        "name": "create_the_air_wars:vzryiv-ruchnoy-granatyi---padayut-kuski-zemli-27959",
+        "stream": false
+      }
+    ]
+  },
+  "aim9_seek": {
+    "sounds": [
+      {
+        "name": "create_the_air_wars:aim9_seek",
+        "stream": false
+      }
+    ]
+  },
+  "aim9_lock": {
+    "sounds": [
+      {
+        "name": "create_the_air_wars:aim9_lock",
+        "stream": false
+      }
+    ]
+  },
+  "sonar_sound": {
+    "sounds": [
+      {
+        "name": "create_the_air_wars:effekt-sonara-sonar-sound-fx-29228",
+        "stream": false
+      }
+    ]
+  }
+}

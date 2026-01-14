@@ -1,0 +1,735 @@
+{
+  "credit": "Made with Blockbench",
+  "elements": [
+    {
+      "name": "Fuselage",
+      "from": [
+        6,
+        10,
+        4
+      ],
+      "to": [
+        10,
+        14,
+        32
+      ],
+      "rotation": {
+        "angle": 45,
+        "axis": "z",
+        "origin": [
+          8,
+          12,
+          16
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            1.5,
+            1.5
+          ],
+          "texture": "#2"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            1.5,
+            16
+          ],
+          "rotation": 90,
+          "texture": "#2"
+        },
+        "south": {
+          "uv": [
+            1.5,
+            0,
+            3,
+            1.5
+          ],
+          "texture": "#2"
+        },
+        "west": {
+          "uv": [
+            0,
+            16,
+            1.5,
+            0
+          ],
+          "rotation": 90,
+          "texture": "#2"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            1.5,
+            16
+          ],
+          "texture": "#2"
+        },
+        "down": {
+          "uv": [
+            0,
+            16,
+            1.5,
+            0
+          ],
+          "texture": "#2"
+        }
+      }
+    },
+    {
+      "name": "Connector",
+      "from": [
+        6,
+        10,
+        0
+      ],
+      "to": [
+        10,
+        14,
+        4
+      ],
+      "rotation": {
+        "angle": 45,
+        "axis": "z",
+        "origin": [
+          8,
+          12,
+          12
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            3.5,
+            1.5,
+            1.5,
+            3.5
+          ],
+          "texture": "#2"
+        },
+        "east": {
+          "uv": [
+            3.5,
+            1.5,
+            1.5,
+            3.5
+          ],
+          "texture": "#2"
+        },
+        "south": {
+          "uv": [
+            3.5,
+            1.5,
+            1.5,
+            3.5
+          ],
+          "texture": "#2"
+        },
+        "west": {
+          "uv": [
+            3.5,
+            1.5,
+            1.5,
+            3.5
+          ],
+          "texture": "#2"
+        },
+        "up": {
+          "uv": [
+            3.5,
+            1.5,
+            1.5,
+            3.5
+          ],
+          "texture": "#2"
+        },
+        "down": {
+          "uv": [
+            3.5,
+            1.5,
+            1.5,
+            3.5
+          ],
+          "texture": "#2"
+        }
+      }
+    },
+    {
+      "name": "Fin A",
+      "from": [
+        8,
+        4,
+        26
+      ],
+      "to": [
+        8,
+        20,
+        31
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          12,
+          31
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            6,
+            0,
+            8.5,
+            4.5
+          ],
+          "rotation": 180,
+          "texture": "#2"
+        },
+        "east": {
+          "uv": [
+            6,
+            0,
+            8.5,
+            4.5
+          ],
+          "rotation": 180,
+          "texture": "#2"
+        },
+        "south": {
+          "uv": [
+            6,
+            0,
+            8.5,
+            4.5
+          ],
+          "rotation": 180,
+          "texture": "#2"
+        },
+        "west": {
+          "uv": [
+            8.5,
+            0,
+            6,
+            4.5
+          ],
+          "rotation": 180,
+          "texture": "#2"
+        },
+        "up": {
+          "uv": [
+            6,
+            0,
+            8.5,
+            4.5
+          ],
+          "rotation": 180,
+          "texture": "#2"
+        },
+        "down": {
+          "uv": [
+            6,
+            0,
+            8.5,
+            4.5
+          ],
+          "rotation": 180,
+          "texture": "#2"
+        }
+      }
+    },
+    {
+      "name": "Fin B",
+      "from": [
+        0,
+        12,
+        26
+      ],
+      "to": [
+        16,
+        12,
+        31
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          12,
+          31
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8.5,
+            0,
+            6,
+            4.5
+          ],
+          "rotation": 270,
+          "texture": "#2"
+        },
+        "east": {
+          "uv": [
+            8.5,
+            0,
+            6,
+            4.5
+          ],
+          "rotation": 270,
+          "texture": "#2"
+        },
+        "south": {
+          "uv": [
+            8.5,
+            0,
+            6,
+            4.5
+          ],
+          "rotation": 270,
+          "texture": "#2"
+        },
+        "west": {
+          "uv": [
+            8.5,
+            0,
+            6,
+            4.5
+          ],
+          "rotation": 270,
+          "texture": "#2"
+        },
+        "up": {
+          "uv": [
+            8.5,
+            0,
+            6,
+            4.5
+          ],
+          "rotation": 270,
+          "texture": "#2"
+        },
+        "down": {
+          "uv": [
+            6,
+            0,
+            8.5,
+            4.5
+          ],
+          "rotation": 270,
+          "texture": "#2"
+        }
+      }
+    },
+    {
+      "name": "Fin A",
+      "from": [
+        -10,
+        12,
+        11
+      ],
+      "to": [
+        26,
+        12,
+        16
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          12,
+          16
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8.5,
+            0,
+            9.5,
+            4.5
+          ],
+          "rotation": 270,
+          "texture": "#2"
+        },
+        "east": {
+          "uv": [
+            8.5,
+            0,
+            9.5,
+            4.5
+          ],
+          "rotation": 270,
+          "texture": "#2"
+        },
+        "south": {
+          "uv": [
+            8.5,
+            0,
+            9.5,
+            4.5
+          ],
+          "rotation": 270,
+          "texture": "#2"
+        },
+        "west": {
+          "uv": [
+            8.5,
+            0,
+            9.5,
+            4.5
+          ],
+          "rotation": 270,
+          "texture": "#2"
+        },
+        "up": {
+          "uv": [
+            8.5,
+            0,
+            9.5,
+            4.5
+          ],
+          "rotation": 270,
+          "texture": "#2"
+        },
+        "down": {
+          "uv": [
+            8.5,
+            0,
+            9.5,
+            4.5
+          ],
+          "rotation": 270,
+          "texture": "#2"
+        }
+      }
+    },
+    {
+      "name": "Payload",
+      "from": [
+        5.75,
+        9.75,
+        -15
+      ],
+      "to": [
+        10.25,
+        14.25,
+        0
+      ],
+      "rotation": {
+        "angle": 45,
+        "axis": "z",
+        "origin": [
+          8,
+          12,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            3.5,
+            1.5,
+            5.5,
+            3.5
+          ],
+          "texture": "#2"
+        },
+        "east": {
+          "uv": [
+            1.5,
+            3.5,
+            3.5,
+            9.5
+          ],
+          "rotation": 90,
+          "texture": "#2"
+        },
+        "south": {
+          "uv": [
+            1.5,
+            1.5,
+            3.5,
+            3.5
+          ],
+          "texture": "#2"
+        },
+        "west": {
+          "uv": [
+            1.5,
+            9.5,
+            3.5,
+            3.5
+          ],
+          "rotation": 90,
+          "texture": "#2"
+        },
+        "up": {
+          "uv": [
+            1.5,
+            3.5,
+            3.5,
+            9.5
+          ],
+          "texture": "#2"
+        },
+        "down": {
+          "uv": [
+            1.5,
+            9.5,
+            3.5,
+            3.5
+          ],
+          "texture": "#2"
+        }
+      }
+    },
+    {
+      "name": "Fuze",
+      "from": [
+        7,
+        11,
+        -16
+      ],
+      "to": [
+        9,
+        13,
+        -14
+      ],
+      "rotation": {
+        "angle": 45,
+        "axis": "z",
+        "origin": [
+          8,
+          12,
+          -1
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            2,
+            5,
+            3
+          ],
+          "texture": "#2"
+        },
+        "east": {
+          "uv": [
+            5,
+            2,
+            4,
+            3
+          ],
+          "texture": "#2"
+        },
+        "south": {
+          "uv": [
+            4,
+            2,
+            5,
+            3
+          ],
+          "texture": "#2"
+        },
+        "west": {
+          "uv": [
+            5,
+            2,
+            4,
+            3
+          ],
+          "texture": "#2"
+        },
+        "up": {
+          "uv": [
+            5,
+            2,
+            4,
+            3
+          ],
+          "texture": "#2"
+        },
+        "down": {
+          "uv": [
+            5,
+            2,
+            4,
+            3
+          ],
+          "texture": "#2"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "translation": [
+        0,
+        -1,
+        1
+      ],
+      "scale": [
+        0.55,
+        0.55,
+        0.55
+      ]
+    },
+    "thirdperson_lefthand": {
+      "translation": [
+        0,
+        -1,
+        1
+      ],
+      "scale": [
+        0.55,
+        0.55,
+        0.55
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        91.75,
+        -6.75,
+        0.22
+      ],
+      "translation": [
+        3.5,
+        -5.25,
+        -6
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        91.75,
+        -6.75,
+        0.22
+      ],
+      "translation": [
+        3.5,
+        -5.25,
+        -6
+      ]
+    },
+    "ground": {
+      "translation": [
+        0,
+        -0.25,
+        0
+      ]
+    },
+    "gui": {
+      "rotation": [
+        30,
+        225,
+        0
+      ],
+      "translation": [
+        0.5,
+        -2.5,
+        0
+      ],
+      "scale": [
+        0.4,
+        0.4,
+        0.4
+      ]
+    },
+    "head": {
+      "translation": [
+        0,
+        5,
+        0
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        90,
+        50,
+        -90
+      ],
+      "translation": [
+        -2,
+        -2,
+        0
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    }
+  },
+  "groups": [
+    {
+      "name": "Body",
+      "origin": [
+        8,
+        2,
+        12
+      ],
+      "color": 0,
+      "children": [
+        0,
+        1
+      ]
+    },
+    {
+      "name": "Fins",
+      "origin": [
+        8,
+        2,
+        16
+      ],
+      "color": 0,
+      "children": [
+        {
+          "name": "Rear",
+          "origin": [
+            8,
+            2,
+            31
+          ],
+          "color": 0,
+          "children": [
+            2,
+            3
+          ]
+        },
+        {
+          "name": "Front",
+          "origin": [
+            8,
+            2,
+            16
+          ],
+          "color": 0,
+          "children": [
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Warhead",
+      "origin": [
+        8,
+        2,
+        -1
+      ],
+      "color": 0,
+      "children": [
+        5,
+        6
+      ]
+    }
+  ]
+}

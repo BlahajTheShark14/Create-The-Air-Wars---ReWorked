@@ -1,0 +1,9 @@
+{
+  "parent": "create_the_air_wars:custom/large_propeller_blade",
+  "textures": {
+    "all": "create_the_air_wars:block/propeller_blade",
+    "particle": "create_the_air_wars:block/propeller_blade",
+    "0": "create_the_air_wars:block/propeller_blade"
+  },
+  "render_type": "solid"
+}

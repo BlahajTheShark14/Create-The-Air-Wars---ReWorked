@@ -1,0 +1,35 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT License"
+
+[[mods]]
+modId="create_the_air_wars"
+version="2.0"
+displayName="Create: The Air Wars"
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+credits=":]"
+authors="sonima, BlahajYT, Ethr"
+description="This mod do for your planes helicopters and all air vehicle                  enjoy:]"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.create_the_air_wars]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+[[dependencies.create_the_air_wars]]
+    modId="geckolib"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

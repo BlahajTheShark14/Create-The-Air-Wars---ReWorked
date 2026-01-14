@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "create_the_air_wars:efssdfsdf"
+    },
+    "b": {
+      "item": "create_the_air_wars:c_9emptyrocketbox"
+    }
+  },
+  "result": {
+    "item": "create_the_air_wars:c_9_rocketbox",
+    "count": 1
+  }
+}

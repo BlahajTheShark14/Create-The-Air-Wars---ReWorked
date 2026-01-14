@@ -1,0 +1,23 @@
+{
+  "_fv": 73,
+  "_type": "particle",
+  "definition": {
+    "texture": "exp",
+    "animate": true,
+    "frameDuration": 15,
+    "width": 0.2,
+    "height": 0.2,
+    "scale": {
+      "fixedValue": 65.0
+    },
+    "speedFactor": 0.0,
+    "gravity": 0.0,
+    "maxAge": 150,
+    "maxAgeDiff": 150,
+    "angularVelocity": 0.0,
+    "angularAcceleration": 0.0,
+    "canCollide": true,
+    "alwaysShow": true,
+    "renderType": "OPAQUE"
+  }
+}

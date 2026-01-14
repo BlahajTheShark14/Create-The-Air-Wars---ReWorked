@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Activator"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Explosive"
+      },
+      {
+        "value": "CUSTOM:Titaniumingot"
+      },
+      {
+        "value": "CUSTOM:Explosive"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Rocketengine"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Rim7"
+    },
+    "name": "wtwtwte",
+    "namespace": "mod"
+  }
+}
