@@ -3268,8 +3268,8 @@
       "item.create_the_air_wars.crushed_amalgam": "Раздробленый Амальгам",
       "block.create_the_air_wars.c_9emptyrocketbox": "С-8 Пустая Ракетная Установка",
       "block.create_the_air_wars.c_25a": "C-25",
-      "item.create_the_air_wars.miniexplzv": "Мальенькая Взрывчатка",
       "gui.create_the_air_wars.fdgdd.label_give_the_rocket_power": "Установите силу ракете",
+      "item.create_the_air_wars.miniexplzv": "Мальенькая Взрывчатка",
       "item.create_the_air_wars.rocket_plating": "Rocket Plating",
       "item.create_the_air_wars.antenna": "Антенна",
       "block.create_the_air_wars.rim_7": "RIM-7",
@@ -3391,8 +3391,8 @@
       "item.create_the_air_wars.crushed_amalgam": "Crushed Amalgam",
       "block.create_the_air_wars.c_9emptyrocketbox": "C-8 Empty Rocket Box",
       "block.create_the_air_wars.c_25a": "C-25",
-      "gui.create_the_air_wars.fdgdd.label_give_the_rocket_power": "Give the rocket power",
       "item.create_the_air_wars.miniexplzv": "Small Explosive",
+      "gui.create_the_air_wars.fdgdd.label_give_the_rocket_power": "Give the rocket power",
       "item.create_the_air_wars.rocket_plating": "Rocket Plating",
       "item.create_the_air_wars.antenna": "Antenna",
       "block.create_the_air_wars.rim_7": "RIM-7",
@@ -3522,16 +3522,24 @@
       {
         "name": "particles",
         "children": []
+      },
+      {
+        "name": "dik mi a turo",
+        "children": []
+      },
+      {
+        "name": "Ihategithubihategithub",
+        "children": []
       }
     ]
   },
   "workspaceSettings": {
     "modid": "create_the_air_wars",
     "modName": "Create: The Air Wars",
-    "version": "2.04sonimavip",
+    "version": "2.0",
     "description": "This mod do for your planes helicopters and all air vehicle                  enjoy:]",
-    "author": "sonima",
-    "websiteURL": "https://modrinth.com/user/sonima",
+    "author": "sonima, BlahajYT, Ethr",
+    "websiteURL": "https://mcreator.net",
     "license": "MIT License",
     "serverSideOnly": false,
     "modPicture": "biez_nazvaniia111_20250206194439",
