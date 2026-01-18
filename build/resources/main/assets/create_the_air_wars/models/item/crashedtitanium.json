@@ -1,6 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "create_the_air_wars:item/crushed_titanium"
-  }
-}

@@ -24,10 +24,8 @@ public class CreateTheAirWarsModEntityRenderers {
 		event.registerEntityRenderer(CreateTheAirWarsModEntities.RIM_7ACTVBULT.get(), ThrownItemRenderer::new);
 		event.registerEntityRenderer(CreateTheAirWarsModEntities.NINEK_119MACTVBULT.get(), ThrownItemRenderer::new);
 		event.registerEntityRenderer(CreateTheAirWarsModEntities.C_25ACTVBULT.get(), ThrownItemRenderer::new);
-		event.registerEntityRenderer(CreateTheAirWarsModEntities.M_24BULT.get(), ThrownItemRenderer::new);
 		event.registerEntityRenderer(CreateTheAirWarsModEntities.TOMAHAWKBULT.get(), ThrownItemRenderer::new);
 		event.registerEntityRenderer(CreateTheAirWarsModEntities.BGGH.get(), ThrownItemRenderer::new);
 		event.registerEntityRenderer(CreateTheAirWarsModEntities.FAB_3000TRUE.get(), ThrownItemRenderer::new);
-		event.registerEntityRenderer(CreateTheAirWarsModEntities.ASTRK.get(), ThrownItemRenderer::new);
 	}
 }

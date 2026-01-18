@@ -20,7 +20,6 @@ import hi.entity.Zm54bullEntity;
 import hi.entity.TomahawkbultEntity;
 import hi.entity.Rim7actvbultEntity;
 import hi.entity.Ninek119mactvbultEntity;
-import hi.entity.M24bultEntity;
 import hi.entity.GvrdcrcdEntity;
 import hi.entity.Fab3000trueEntity;
 import hi.entity.CsdsEntity;
@@ -28,7 +27,6 @@ import hi.entity.C3ktrueEntity;
 import hi.entity.C25actvbultEntity;
 import hi.entity.C25Entity;
 import hi.entity.BgghEntity;
-import hi.entity.AstrkEntity;
 import hi.entity.AIM9ROCKETTRUEEntity;
 
 import hi.CreateTheAirWarsMod;
@@ -54,16 +52,12 @@ public class CreateTheAirWarsModEntities {
 			.setCustomClientFactory(Ninek119mactvbultEntity::new).setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(1).sized(0.5f, 0.5f));
 	public static final RegistryObject<EntityType<C25actvbultEntity>> C_25ACTVBULT = register("c_25actvbult",
 			EntityType.Builder.<C25actvbultEntity>of(C25actvbultEntity::new, MobCategory.MISC).setCustomClientFactory(C25actvbultEntity::new).setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(1).sized(0.5f, 0.5f));
-	public static final RegistryObject<EntityType<M24bultEntity>> M_24BULT = register("m_24bult",
-			EntityType.Builder.<M24bultEntity>of(M24bultEntity::new, MobCategory.MISC).setCustomClientFactory(M24bultEntity::new).setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(1).sized(0.5f, 0.5f));
 	public static final RegistryObject<EntityType<TomahawkbultEntity>> TOMAHAWKBULT = register("tomahawkbult",
 			EntityType.Builder.<TomahawkbultEntity>of(TomahawkbultEntity::new, MobCategory.MISC).setCustomClientFactory(TomahawkbultEntity::new).setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(1).sized(0.5f, 0.5f));
 	public static final RegistryObject<EntityType<BgghEntity>> BGGH = register("bggh",
 			EntityType.Builder.<BgghEntity>of(BgghEntity::new, MobCategory.MISC).setCustomClientFactory(BgghEntity::new).setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(1).sized(0.5f, 0.5f));
 	public static final RegistryObject<EntityType<Fab3000trueEntity>> FAB_3000TRUE = register("fab_3000true",
 			EntityType.Builder.<Fab3000trueEntity>of(Fab3000trueEntity::new, MobCategory.MISC).setCustomClientFactory(Fab3000trueEntity::new).setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(1).sized(0.5f, 0.5f));
-	public static final RegistryObject<EntityType<AstrkEntity>> ASTRK = register("astrk",
-			EntityType.Builder.<AstrkEntity>of(AstrkEntity::new, MobCategory.MISC).setCustomClientFactory(AstrkEntity::new).setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(1).sized(0.5f, 0.5f));
 
 	// Start of user code block custom entities
 	// End of user code block custom entities

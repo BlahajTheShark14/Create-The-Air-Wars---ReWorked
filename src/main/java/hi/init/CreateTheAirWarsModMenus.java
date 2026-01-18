@@ -11,7 +11,6 @@ import net.minecraftforge.common.extensions.IForgeMenuType;
 
 import net.minecraft.world.inventory.MenuType;
 
-import hi.world.inventory.UfyMenu;
 import hi.world.inventory.MgMenu;
 import hi.world.inventory.FdgddMenu;
 import hi.world.inventory.DfgdfgMenu;
@@ -22,6 +21,5 @@ public class CreateTheAirWarsModMenus {
 	public static final DeferredRegister<MenuType<?>> REGISTRY = DeferredRegister.create(ForgeRegistries.MENU_TYPES, CreateTheAirWarsMod.MODID);
 	public static final RegistryObject<MenuType<FdgddMenu>> FDGDD = REGISTRY.register("fdgdd", () -> IForgeMenuType.create(FdgddMenu::new));
 	public static final RegistryObject<MenuType<DfgdfgMenu>> DFGDFG = REGISTRY.register("dfgdfg", () -> IForgeMenuType.create(DfgdfgMenu::new));
-	public static final RegistryObject<MenuType<UfyMenu>> UFY = REGISTRY.register("ufy", () -> IForgeMenuType.create(UfyMenu::new));
 	public static final RegistryObject<MenuType<MgMenu>> MG = REGISTRY.register("mg", () -> IForgeMenuType.create(MgMenu::new));
 }

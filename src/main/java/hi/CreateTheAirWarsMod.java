@@ -29,11 +29,8 @@ import java.util.AbstractMap;
 import hi.init.CreateTheAirWarsModTabs;
 import hi.init.CreateTheAirWarsModSounds;
 import hi.init.CreateTheAirWarsModParticleTypes;
-import hi.init.CreateTheAirWarsModMobEffects;
 import hi.init.CreateTheAirWarsModMenus;
 import hi.init.CreateTheAirWarsModItems;
-import hi.init.CreateTheAirWarsModFluids;
-import hi.init.CreateTheAirWarsModFluidTypes;
 import hi.init.CreateTheAirWarsModEntities;
 import hi.init.CreateTheAirWarsModBlocks;
 
@@ -55,13 +52,9 @@ public class CreateTheAirWarsMod {
 
 		CreateTheAirWarsModTabs.REGISTRY.register(bus);
 
-		CreateTheAirWarsModMobEffects.REGISTRY.register(bus);
-
 		CreateTheAirWarsModParticleTypes.REGISTRY.register(bus);
 
 		CreateTheAirWarsModMenus.REGISTRY.register(bus);
-		CreateTheAirWarsModFluids.REGISTRY.register(bus);
-		CreateTheAirWarsModFluidTypes.REGISTRY.register(bus);
 
 		// Start of user code block mod init
 		// End of user code block mod init

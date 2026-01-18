@@ -11,7 +11,6 @@ import net.minecraftforge.api.distmarker.Dist;
 
 import net.minecraft.client.gui.screens.MenuScreens;
 
-import hi.client.gui.UfyScreen;
 import hi.client.gui.MgScreen;
 import hi.client.gui.FdgddScreen;
 import hi.client.gui.DfgdfgScreen;
@@ -23,7 +22,6 @@ public class CreateTheAirWarsModScreens {
 		event.enqueueWork(() -> {
 			MenuScreens.register(CreateTheAirWarsModMenus.FDGDD.get(), FdgddScreen::new);
 			MenuScreens.register(CreateTheAirWarsModMenus.DFGDFG.get(), DfgdfgScreen::new);
-			MenuScreens.register(CreateTheAirWarsModMenus.UFY.get(), UfyScreen::new);
 			MenuScreens.register(CreateTheAirWarsModMenus.MG.get(), MgScreen::new);
 		});
 	}
